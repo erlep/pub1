@@ -1,14 +1,8 @@
- Volume in drive C is OS
- Volume Serial Number is A25B-A819
-
- Directory of C:\peg\UNIS\Prg\Py\xGit\pub1
-
-06.01.2022  14:01    <DIR>          .
-06.01.2022  14:01    <DIR>          ..
-22.10.2021  07:17             1ÿ968 .gitignore
-23.09.2021  14:32    <DIR>          .vscode
-06.01.2022  10:55               433 Py00_Hello world.py
-06.01.2022  14:01                 0 QQ.Txt
-06.01.2022  14:01               817 README.md
-               4 File(s)          3ÿ218 bytes
-               3 Dir(s)  76ÿ450ÿ955ÿ264 bytes free
+total 12
+drwxrwxr-x 3 ec2-user ec2-user   94 Jan  6 13:05 .
+drwxrwxr-x 6 ec2-user ec2-user   57 Jan  6 12:57 ..
+drwxrwxr-x 8 ec2-user ec2-user  198 Jan  6 13:05 .git
+-rw-rw-r-- 1 ec2-user ec2-user 1836 Jan  6 12:35 .gitignore
+-rw-rw-r-- 1 ec2-user ec2-user  403 Jan  6 12:35 Py00_Hello world.py
+-rw-rw-r-- 1 ec2-user ec2-user    0 Jan  6 13:06 qq.Txt
+-rw-rw-r-- 1 ec2-user ec2-user  932 Jan  6 13:05 README.md
