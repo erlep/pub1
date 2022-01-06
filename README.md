@@ -2,10 +2,10 @@
 
 test public repository
 
-## v07
+## v08
 
 
-
+06.01.2022 11:29 - v 8
 06.01.2022 11:27 - verze 7 z VS Code
 06.01.2022 11:25
 v6 nema comit a delam push
@@ -16,6 +16,7 @@ v6 nema comit a delam push
 git status
 git commit -a  -m "cmd line"
 git push
+git pull
 --------------------------------------------------------------------------------
 git commit -a
 git commit -a  -m "cmd line v04"
