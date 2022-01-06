@@ -2,7 +2,11 @@
 
 test public repository
 
-## v06
+## v07
+
+
+
+06.01.2022 11:27 - verze 7 z VS Code
 06.01.2022 11:25
 v6 nema comit a delam push
 06.01.2022 11:17 - v04
