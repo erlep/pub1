@@ -1,0 +1,14 @@
+ Volume in drive C is OS
+ Volume Serial Number is A25B-A819
+
+ Directory of C:\peg\UNIS\Prg\Py\xGit\pub1
+
+06.01.2022  14:01    <DIR>          .
+06.01.2022  14:01    <DIR>          ..
+22.10.2021  07:17             1ÿ968 .gitignore
+23.09.2021  14:32    <DIR>          .vscode
+06.01.2022  10:55               433 Py00_Hello world.py
+06.01.2022  14:01                 0 QQ.Txt
+06.01.2022  14:01               817 README.md
+               4 File(s)          3ÿ218 bytes
+               3 Dir(s)  76ÿ450ÿ955ÿ264 bytes free
