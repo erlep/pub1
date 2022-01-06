@@ -10,3 +10,6 @@ test public repository
 
 git commit -a
 git commit -a  -m "cmd line v04"
+
+git status
+git commit -a  -m "cmd line 5"
